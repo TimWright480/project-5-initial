@@ -366,15 +366,15 @@ After completing the implementation and testing phases, reflect on these questio
 
 ### AI Interaction Documentation (30 points)
 
-**Implementation Logs (8 points)**
-- ✓ Complete prompts for both algorithms with pseudocode (3 pts)
-- ✓ AI responses documented (2 pts)
-- ✓ Verification notes on variable naming and modifications (3 pts)
+**Implementation Logs (15 points)**
+- ✓ Complete prompts for both algorithms with pseudocode (6 pts)
+- ✓ AI responses documented (4 pts)
+- ✓ Verification notes on variable naming and modifications (5 pts)
 
-**Testing Logs (7 points)**
-- ✓ Test generation prompts documented (2 pts)
-- ✓ Coverage analysis documented (3 pts)
-- ✓ Test modifications explained (2 pts)
+**Testing Logs (15 points)**
+- ✓ Test generation prompts documented (5 pts)
+- ✓ Coverage analysis documented (6 pts)
+- ✓ Test modifications explained (4 pts)
 
 ### Performance Analysis & Reflection (10 points)
 
