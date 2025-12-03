@@ -9,7 +9,7 @@ public class SortingDriver {
 
     public static void main(String[] args) {
 
-        // Generate array of random Integers
+        // Generate array of random Integers.
         Integer[] arr = IntStream.generate(() -> (int) (Math.random() * 50000))
                 .boxed()
                 .limit(10000)
